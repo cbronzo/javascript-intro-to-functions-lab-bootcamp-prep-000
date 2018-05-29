@@ -27,12 +27,6 @@ function sayHiToGrandma(string) {
     }
   }
   
-function sayHiToGrandma(string) {
->   if
-
-
-=== "I love you, too."){
->     return "I love you, Grandma."
 
 
 
